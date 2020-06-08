@@ -1,0 +1,22 @@
+{
+  "name": "deptmenttree",
+  "version": "1.0.0",
+  "description": "基于iview的树选择器 支持反选",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hongqiang",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.5.3",
+    "less-loader": "^6.1.0",
+    "url-loader": "^4.1.0",
+    "vue-loader": "^15.9.2",
+    "vue-style-loader": "^4.1.2"
+  }
+}
